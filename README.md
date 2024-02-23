@@ -1,11 +1,9 @@
-### Hey, I'm Miraya 👋🏽  
+# Hi, I'm Alexander 👋🏽  
 
-I'm a 21-year-old developer based in Germany, and I'm passionate about crafting digital experiences. 
+I'm a frontend developer based in Dominican Republic, and I'm passionate about crafting digital experiences. 
 
-- Check out my [website](https://www.miraya.tech/) to learn more about me.
-- Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
-- Check out [VSCode Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
-- In my [Newsletter](https://mirayatech.substack.com/), I share my learnings and tips to become a better developer. 
+##### 🌐 Check out my [website](https://aIexnder.com/) to learn more about me.
+##### ⚒️ Explore my [repositories](https://aIexnder?tab=repositories) where I build amazing things. 
  
 ## 📦 Toolbox
 
@@ -21,11 +19,11 @@ I'm a 21-year-old developer based in Germany, and I'm passionate about crafting 
  
 ## ✨ Fun Facts 
 
-- Demon Slayer is my favorite anime.
-- As a kid, I wanted to be an astronaut.
-- I love using Mac after switching from Linux.
+- Shingeki no Kyojin is my favorite anime.
+- As a kid, I wanted to be an Architecture.
+- I love tech series like Silicon Valley 
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/aIexnder/). 
  
