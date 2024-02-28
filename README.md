@@ -7,7 +7,7 @@ I'm a frontend developer based in Mexico, and I'm passionate about crafting digi
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+**Frontend Development:** `React` `Astro` `Next.js` `Remix` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
