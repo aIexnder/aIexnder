@@ -2,7 +2,7 @@
 
 I'm a frontend developer based in Mexico, and I'm passionate about crafting digital experiences. 
 
-##### 🌐 Check out my [website](https://aIexnder.com/) to learn more about me.
+##### 🌐 Check out my [website](https://aIexnder.vercel.app/) to learn more about me.
 ##### ⚒️ Explore my [repositories](https://aIexnder?tab=repositories) where I build amazing things. 
  
 ## 📦 Toolbox
