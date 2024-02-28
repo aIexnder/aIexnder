@@ -11,7 +11,7 @@ I'm a frontend developer based in Mexico, and I'm passionate about crafting digi
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
+**Backend Development:** `C++` `C` `Nest.js` `GraphQL` `Firebase` 
 
 **Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
 
